@@ -31,4 +31,14 @@
         android:layout_alignEnd="@+id/button"
         android:layout_marginTop="29dp"
         android:id="@+id/button2" />
+
+    <Button
+        android:text="BYE BYE PROJECT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignStart="@+id/button"
+        android:layout_marginTop="47dp"
+        android:id="@+id/button3" />
 </RelativeLayout>
